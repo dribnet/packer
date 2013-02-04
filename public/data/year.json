@@ -1,0 +1,2198 @@
+[
+  {
+    "Austin": "72.2",
+    "SanFrancisco": "62.7",
+    "NewYork": "63.4",
+    "date": "20111001"
+  },
+  {
+    "Austin": "67.7",
+    "SanFrancisco": "59.9",
+    "NewYork": "58.0",
+    "date": "20111002"
+  },
+  {
+    "Austin": "69.4",
+    "SanFrancisco": "59.1",
+    "NewYork": "53.3",
+    "date": "20111003"
+  },
+  {
+    "Austin": "68.0",
+    "SanFrancisco": "58.8",
+    "NewYork": "55.7",
+    "date": "20111004"
+  },
+  {
+    "Austin": "72.4",
+    "SanFrancisco": "58.7",
+    "NewYork": "64.2",
+    "date": "20111005"
+  },
+  {
+    "Austin": "77.0",
+    "SanFrancisco": "57.0",
+    "NewYork": "58.8",
+    "date": "20111006"
+  },
+  {
+    "Austin": "82.3",
+    "SanFrancisco": "56.7",
+    "NewYork": "57.9",
+    "date": "20111007"
+  },
+  {
+    "Austin": "78.9",
+    "SanFrancisco": "56.8",
+    "NewYork": "61.8",
+    "date": "20111008"
+  },
+  {
+    "Austin": "68.8",
+    "SanFrancisco": "56.7",
+    "NewYork": "69.3",
+    "date": "20111009"
+  },
+  {
+    "Austin": "68.7",
+    "SanFrancisco": "60.1",
+    "NewYork": "71.2",
+    "date": "20111010"
+  },
+  {
+    "Austin": "70.3",
+    "SanFrancisco": "61.1",
+    "NewYork": "68.7",
+    "date": "20111011"
+  },
+  {
+    "Austin": "75.3",
+    "SanFrancisco": "61.5",
+    "NewYork": "61.8",
+    "date": "20111012"
+  },
+  {
+    "Austin": "76.6",
+    "SanFrancisco": "64.3",
+    "NewYork": "63.0",
+    "date": "20111013"
+  },
+  {
+    "Austin": "66.6",
+    "SanFrancisco": "67.1",
+    "NewYork": "66.9",
+    "date": "20111014"
+  },
+  {
+    "Austin": "68.0",
+    "SanFrancisco": "64.6",
+    "NewYork": "61.7",
+    "date": "20111015"
+  },
+  {
+    "Austin": "70.6",
+    "SanFrancisco": "61.6",
+    "NewYork": "61.8",
+    "date": "20111016"
+  },
+  {
+    "Austin": "71.1",
+    "SanFrancisco": "61.1",
+    "NewYork": "62.8",
+    "date": "20111017"
+  },
+  {
+    "Austin": "70.0",
+    "SanFrancisco": "59.2",
+    "NewYork": "60.8",
+    "date": "20111018"
+  },
+  {
+    "Austin": "61.6",
+    "SanFrancisco": "58.9",
+    "NewYork": "62.1",
+    "date": "20111019"
+  },
+  {
+    "Austin": "57.4",
+    "SanFrancisco": "57.2",
+    "NewYork": "65.1",
+    "date": "20111020"
+  },
+  {
+    "Austin": "64.3",
+    "SanFrancisco": "56.4",
+    "NewYork": "55.6",
+    "date": "20111021"
+  },
+  {
+    "Austin": "72.4",
+    "SanFrancisco": "60.7",
+    "NewYork": "54.4",
+    "date": "20111022"
+  },
+  {
+    "Austin": "72.4",
+    "SanFrancisco": "65.1",
+    "NewYork": "54.4",
+    "date": "20111023"
+  },
+  {
+    "Austin": "72.5",
+    "SanFrancisco": "60.9",
+    "NewYork": "54.8",
+    "date": "20111024"
+  },
+  {
+    "Austin": "72.7",
+    "SanFrancisco": "56.1",
+    "NewYork": "57.9",
+    "date": "20111025"
+  },
+  {
+    "Austin": "73.4",
+    "SanFrancisco": "54.6",
+    "NewYork": "54.6",
+    "date": "20111026"
+  },
+  {
+    "Austin": "70.7",
+    "SanFrancisco": "56.1",
+    "NewYork": "54.4",
+    "date": "20111027"
+  },
+  {
+    "Austin": "56.8",
+    "SanFrancisco": "58.1",
+    "NewYork": "42.5",
+    "date": "20111028"
+  },
+  {
+    "Austin": "51.0",
+    "SanFrancisco": "57.5",
+    "NewYork": "40.9",
+    "date": "20111029"
+  },
+  {
+    "Austin": "54.9",
+    "SanFrancisco": "57.7",
+    "NewYork": "38.6",
+    "date": "20111030"
+  },
+  {
+    "Austin": "58.8",
+    "SanFrancisco": "55.1",
+    "NewYork": "44.2",
+    "date": "20111031"
+  },
+  {
+    "Austin": "62.6",
+    "SanFrancisco": "57.9",
+    "NewYork": "49.6",
+    "date": "20111101"
+  },
+  {
+    "Austin": "71.0",
+    "SanFrancisco": "64.6",
+    "NewYork": "47.2",
+    "date": "20111102"
+  },
+  {
+    "Austin": "58.4",
+    "SanFrancisco": "56.2",
+    "NewYork": "50.1",
+    "date": "20111103"
+  },
+  {
+    "Austin": "45.1",
+    "SanFrancisco": "50.5",
+    "NewYork": "50.1",
+    "date": "20111104"
+  },
+  {
+    "Austin": "52.2",
+    "SanFrancisco": "51.3",
+    "NewYork": "43.5",
+    "date": "20111105"
+  },
+  {
+    "Austin": "73.0",
+    "SanFrancisco": "52.6",
+    "NewYork": "43.8",
+    "date": "20111106"
+  },
+  {
+    "Austin": "75.4",
+    "SanFrancisco": "51.4",
+    "NewYork": "48.9",
+    "date": "20111107"
+  },
+  {
+    "Austin": "72.1",
+    "SanFrancisco": "50.6",
+    "NewYork": "55.5",
+    "date": "20111108"
+  },
+  {
+    "Austin": "56.6",
+    "SanFrancisco": "54.6",
+    "NewYork": "53.7",
+    "date": "20111109"
+  },
+  {
+    "Austin": "55.4",
+    "SanFrancisco": "55.6",
+    "NewYork": "57.7",
+    "date": "20111110"
+  },
+  {
+    "Austin": "46.7",
+    "SanFrancisco": "53.9",
+    "NewYork": "48.5",
+    "date": "20111111"
+  },
+  {
+    "Austin": "62.0",
+    "SanFrancisco": "54.0",
+    "NewYork": "46.8",
+    "date": "20111112"
+  },
+  {
+    "Austin": "71.6",
+    "SanFrancisco": "53.8",
+    "NewYork": "51.1",
+    "date": "20111113"
+  },
+  {
+    "Austin": "75.5",
+    "SanFrancisco": "53.5",
+    "NewYork": "56.8",
+    "date": "20111114"
+  },
+  {
+    "Austin": "72.1",
+    "SanFrancisco": "53.4",
+    "NewYork": "59.7",
+    "date": "20111115"
+  },
+  {
+    "Austin": "65.7",
+    "SanFrancisco": "52.2",
+    "NewYork": "56.5",
+    "date": "20111116"
+  },
+  {
+    "Austin": "56.8",
+    "SanFrancisco": "52.7",
+    "NewYork": "49.6",
+    "date": "20111117"
+  },
+  {
+    "Austin": "49.9",
+    "SanFrancisco": "53.1",
+    "NewYork": "41.5",
+    "date": "20111118"
+  },
+  {
+    "Austin": "71.7",
+    "SanFrancisco": "49.0",
+    "NewYork": "44.3",
+    "date": "20111119"
+  },
+  {
+    "Austin": "77.7",
+    "SanFrancisco": "50.4",
+    "NewYork": "54.0",
+    "date": "20111120"
+  },
+  {
+    "Austin": "76.4",
+    "SanFrancisco": "51.1",
+    "NewYork": "54.1",
+    "date": "20111121"
+  },
+  {
+    "Austin": "68.8",
+    "SanFrancisco": "52.3",
+    "NewYork": "49.4",
+    "date": "20111122"
+  },
+  {
+    "Austin": "57.0",
+    "SanFrancisco": "54.6",
+    "NewYork": "50.0",
+    "date": "20111123"
+  },
+  {
+    "Austin": "55.5",
+    "SanFrancisco": "55.1",
+    "NewYork": "44.0",
+    "date": "20111124"
+  },
+  {
+    "Austin": "61.6",
+    "SanFrancisco": "51.5",
+    "NewYork": "50.3",
+    "date": "20111125"
+  },
+  {
+    "Austin": "64.1",
+    "SanFrancisco": "53.6",
+    "NewYork": "52.1",
+    "date": "20111126"
+  },
+  {
+    "Austin": "51.1",
+    "SanFrancisco": "52.3",
+    "NewYork": "49.6",
+    "date": "20111127"
+  },
+  {
+    "Austin": "43.0",
+    "SanFrancisco": "51.0",
+    "NewYork": "57.2",
+    "date": "20111128"
+  },
+  {
+    "Austin": "46.4",
+    "SanFrancisco": "49.5",
+    "NewYork": "59.1",
+    "date": "20111129"
+  },
+  {
+    "Austin": "48.0",
+    "SanFrancisco": "49.8",
+    "NewYork": "50.6",
+    "date": "20111130"
+  },
+  {
+    "Austin": "48.1",
+    "SanFrancisco": "60.4",
+    "NewYork": "44.3",
+    "date": "20111201"
+  },
+  {
+    "Austin": "60.6",
+    "SanFrancisco": "62.2",
+    "NewYork": "43.9",
+    "date": "20111202"
+  },
+  {
+    "Austin": "62.6",
+    "SanFrancisco": "58.3",
+    "NewYork": "42.1",
+    "date": "20111203"
+  },
+  {
+    "Austin": "57.1",
+    "SanFrancisco": "52.7",
+    "NewYork": "43.9",
+    "date": "20111204"
+  },
+  {
+    "Austin": "44.2",
+    "SanFrancisco": "51.5",
+    "NewYork": "50.2",
+    "date": "20111205"
+  },
+  {
+    "Austin": "37.4",
+    "SanFrancisco": "49.9",
+    "NewYork": "54.2",
+    "date": "20111206"
+  },
+  {
+    "Austin": "35.0",
+    "SanFrancisco": "48.6",
+    "NewYork": "54.6",
+    "date": "20111207"
+  },
+  {
+    "Austin": "37.0",
+    "SanFrancisco": "46.4",
+    "NewYork": "43.4",
+    "date": "20111208"
+  },
+  {
+    "Austin": "45.4",
+    "SanFrancisco": "49.8",
+    "NewYork": "42.2",
+    "date": "20111209"
+  },
+  {
+    "Austin": "50.7",
+    "SanFrancisco": "52.1",
+    "NewYork": "45.0",
+    "date": "20111210"
+  },
+  {
+    "Austin": "48.6",
+    "SanFrancisco": "48.8",
+    "NewYork": "33.8",
+    "date": "20111211"
+  },
+  {
+    "Austin": "52.2",
+    "SanFrancisco": "47.4",
+    "NewYork": "36.8",
+    "date": "20111212"
+  },
+  {
+    "Austin": "60.8",
+    "SanFrancisco": "47.2",
+    "NewYork": "38.6",
+    "date": "20111213"
+  },
+  {
+    "Austin": "70.0",
+    "SanFrancisco": "46.1",
+    "NewYork": "41.9",
+    "date": "20111214"
+  },
+  {
+    "Austin": "64.2",
+    "SanFrancisco": "48.8",
+    "NewYork": "49.6",
+    "date": "20111215"
+  },
+  {
+    "Austin": "50.9",
+    "SanFrancisco": "47.9",
+    "NewYork": "50.2",
+    "date": "20111216"
+  },
+  {
+    "Austin": "51.6",
+    "SanFrancisco": "49.8",
+    "NewYork": "40.6",
+    "date": "20111217"
+  },
+  {
+    "Austin": "55.2",
+    "SanFrancisco": "49.1",
+    "NewYork": "29.1",
+    "date": "20111218"
+  },
+  {
+    "Austin": "62.1",
+    "SanFrancisco": "48.3",
+    "NewYork": "33.7",
+    "date": "20111219"
+  },
+  {
+    "Austin": "56.3",
+    "SanFrancisco": "49.3",
+    "NewYork": "45.8",
+    "date": "20111220"
+  },
+  {
+    "Austin": "47.2",
+    "SanFrancisco": "48.4",
+    "NewYork": "47.4",
+    "date": "20111221"
+  },
+  {
+    "Austin": "52.3",
+    "SanFrancisco": "53.3",
+    "NewYork": "54.4",
+    "date": "20111222"
+  },
+  {
+    "Austin": "45.2",
+    "SanFrancisco": "47.5",
+    "NewYork": "47.8",
+    "date": "20111223"
+  },
+  {
+    "Austin": "43.6",
+    "SanFrancisco": "47.9",
+    "NewYork": "34.9",
+    "date": "20111224"
+  },
+  {
+    "Austin": "42.9",
+    "SanFrancisco": "48.9",
+    "NewYork": "35.9",
+    "date": "20111225"
+  },
+  {
+    "Austin": "48.2",
+    "SanFrancisco": "45.9",
+    "NewYork": "43.6",
+    "date": "20111226"
+  },
+  {
+    "Austin": "45.4",
+    "SanFrancisco": "47.2",
+    "NewYork": "42.9",
+    "date": "20111227"
+  },
+  {
+    "Austin": "44.2",
+    "SanFrancisco": "48.9",
+    "NewYork": "46.2",
+    "date": "20111228"
+  },
+  {
+    "Austin": "50.4",
+    "SanFrancisco": "50.9",
+    "NewYork": "30.8",
+    "date": "20111229"
+  },
+  {
+    "Austin": "52.4",
+    "SanFrancisco": "52.9",
+    "NewYork": "40.8",
+    "date": "20111230"
+  },
+  {
+    "Austin": "53.5",
+    "SanFrancisco": "50.1",
+    "NewYork": "49.8",
+    "date": "20111231"
+  },
+  {
+    "Austin": "55.9",
+    "SanFrancisco": "53.9",
+    "NewYork": "46.3",
+    "date": "20120101"
+  },
+  {
+    "Austin": "48.2",
+    "SanFrancisco": "53.1",
+    "NewYork": "43.2",
+    "date": "20120102"
+  },
+  {
+    "Austin": "41.0",
+    "SanFrancisco": "49.7",
+    "NewYork": "30.3",
+    "date": "20120103"
+  },
+  {
+    "Austin": "48.9",
+    "SanFrancisco": "52.7",
+    "NewYork": "19.2",
+    "date": "20120104"
+  },
+  {
+    "Austin": "54.8",
+    "SanFrancisco": "52.6",
+    "NewYork": "32.1",
+    "date": "20120105"
+  },
+  {
+    "Austin": "61.2",
+    "SanFrancisco": "49.0",
+    "NewYork": "41.2",
+    "date": "20120106"
+  },
+  {
+    "Austin": "59.7",
+    "SanFrancisco": "51.0",
+    "NewYork": "47.0",
+    "date": "20120107"
+  },
+  {
+    "Austin": "52.5",
+    "SanFrancisco": "56.8",
+    "NewYork": "46.0",
+    "date": "20120108"
+  },
+  {
+    "Austin": "54.0",
+    "SanFrancisco": "52.3",
+    "NewYork": "34.7",
+    "date": "20120109"
+  },
+  {
+    "Austin": "47.7",
+    "SanFrancisco": "51.6",
+    "NewYork": "39.4",
+    "date": "20120110"
+  },
+  {
+    "Austin": "49.2",
+    "SanFrancisco": "49.8",
+    "NewYork": "40.4",
+    "date": "20120111"
+  },
+  {
+    "Austin": "48.4",
+    "SanFrancisco": "51.9",
+    "NewYork": "45.4",
+    "date": "20120112"
+  },
+  {
+    "Austin": "40.2",
+    "SanFrancisco": "53.7",
+    "NewYork": "40.7",
+    "date": "20120113"
+  },
+  {
+    "Austin": "43.9",
+    "SanFrancisco": "52.9",
+    "NewYork": "30.4",
+    "date": "20120114"
+  },
+  {
+    "Austin": "45.2",
+    "SanFrancisco": "49.7",
+    "NewYork": "23.9",
+    "date": "20120115"
+  },
+  {
+    "Austin": "65.0",
+    "SanFrancisco": "45.3",
+    "NewYork": "22.6",
+    "date": "20120116"
+  },
+  {
+    "Austin": "68.2",
+    "SanFrancisco": "43.6",
+    "NewYork": "39.8",
+    "date": "20120117"
+  },
+  {
+    "Austin": "47.5",
+    "SanFrancisco": "45.0",
+    "NewYork": "43.2",
+    "date": "20120118"
+  },
+  {
+    "Austin": "57.1",
+    "SanFrancisco": "47.3",
+    "NewYork": "26.3",
+    "date": "20120119"
+  },
+  {
+    "Austin": "61.9",
+    "SanFrancisco": "51.4",
+    "NewYork": "32.8",
+    "date": "20120120"
+  },
+  {
+    "Austin": "54.6",
+    "SanFrancisco": "53.7",
+    "NewYork": "27.4",
+    "date": "20120121"
+  },
+  {
+    "Austin": "56.7",
+    "SanFrancisco": "48.3",
+    "NewYork": "25.0",
+    "date": "20120122"
+  },
+  {
+    "Austin": "54.4",
+    "SanFrancisco": "52.9",
+    "NewYork": "39.4",
+    "date": "20120123"
+  },
+  {
+    "Austin": "52.7",
+    "SanFrancisco": "49.1",
+    "NewYork": "48.7",
+    "date": "20120124"
+  },
+  {
+    "Austin": "61.8",
+    "SanFrancisco": "52.1",
+    "NewYork": "43.0",
+    "date": "20120125"
+  },
+  {
+    "Austin": "55.0",
+    "SanFrancisco": "53.6",
+    "NewYork": "37.1",
+    "date": "20120126"
+  },
+  {
+    "Austin": "50.7",
+    "SanFrancisco": "50.4",
+    "NewYork": "48.2",
+    "date": "20120127"
+  },
+  {
+    "Austin": "52.9",
+    "SanFrancisco": "50.3",
+    "NewYork": "43.7",
+    "date": "20120128"
+  },
+  {
+    "Austin": "44.4",
+    "SanFrancisco": "53.8",
+    "NewYork": "40.1",
+    "date": "20120129"
+  },
+  {
+    "Austin": "49.1",
+    "SanFrancisco": "51.9",
+    "NewYork": "38.0",
+    "date": "20120130"
+  },
+  {
+    "Austin": "62.8",
+    "SanFrancisco": "50.0",
+    "NewYork": "43.5",
+    "date": "20120131"
+  },
+  {
+    "Austin": "64.6",
+    "SanFrancisco": "50.0",
+    "NewYork": "50.4",
+    "date": "20120201"
+  },
+  {
+    "Austin": "61.1",
+    "SanFrancisco": "51.3",
+    "NewYork": "45.8",
+    "date": "20120202"
+  },
+  {
+    "Austin": "70.0",
+    "SanFrancisco": "51.5",
+    "NewYork": "37.5",
+    "date": "20120203"
+  },
+  {
+    "Austin": "61.3",
+    "SanFrancisco": "52.0",
+    "NewYork": "40.8",
+    "date": "20120204"
+  },
+  {
+    "Austin": "48.2",
+    "SanFrancisco": "53.8",
+    "NewYork": "36.5",
+    "date": "20120205"
+  },
+  {
+    "Austin": "44.2",
+    "SanFrancisco": "54.6",
+    "NewYork": "39.1",
+    "date": "20120206"
+  },
+  {
+    "Austin": "51.3",
+    "SanFrancisco": "54.3",
+    "NewYork": "43.2",
+    "date": "20120207"
+  },
+  {
+    "Austin": "49.2",
+    "SanFrancisco": "51.9",
+    "NewYork": "36.5",
+    "date": "20120208"
+  },
+  {
+    "Austin": "45.7",
+    "SanFrancisco": "53.8",
+    "NewYork": "36.5",
+    "date": "20120209"
+  },
+  {
+    "Austin": "54.1",
+    "SanFrancisco": "53.9",
+    "NewYork": "38.3",
+    "date": "20120210"
+  },
+  {
+    "Austin": "44.9",
+    "SanFrancisco": "52.3",
+    "NewYork": "36.9",
+    "date": "20120211"
+  },
+  {
+    "Austin": "36.5",
+    "SanFrancisco": "50.1",
+    "NewYork": "29.7",
+    "date": "20120212"
+  },
+  {
+    "Austin": "44.8",
+    "SanFrancisco": "49.5",
+    "NewYork": "33.1",
+    "date": "20120213"
+  },
+  {
+    "Austin": "52.3",
+    "SanFrancisco": "48.6",
+    "NewYork": "39.6",
+    "date": "20120214"
+  },
+  {
+    "Austin": "68.0",
+    "SanFrancisco": "49.9",
+    "NewYork": "42.3",
+    "date": "20120215"
+  },
+  {
+    "Austin": "54.6",
+    "SanFrancisco": "52.4",
+    "NewYork": "39.7",
+    "date": "20120216"
+  },
+  {
+    "Austin": "53.8",
+    "SanFrancisco": "49.9",
+    "NewYork": "46.0",
+    "date": "20120217"
+  },
+  {
+    "Austin": "56.2",
+    "SanFrancisco": "51.6",
+    "NewYork": "41.2",
+    "date": "20120218"
+  },
+  {
+    "Austin": "50.8",
+    "SanFrancisco": "47.8",
+    "NewYork": "39.8",
+    "date": "20120219"
+  },
+  {
+    "Austin": "53.0",
+    "SanFrancisco": "48.7",
+    "NewYork": "38.1",
+    "date": "20120220"
+  },
+  {
+    "Austin": "61.0",
+    "SanFrancisco": "49.7",
+    "NewYork": "37.1",
+    "date": "20120221"
+  },
+  {
+    "Austin": "68.8",
+    "SanFrancisco": "53.4",
+    "NewYork": "45.5",
+    "date": "20120222"
+  },
+  {
+    "Austin": "69.4",
+    "SanFrancisco": "54.1",
+    "NewYork": "50.6",
+    "date": "20120223"
+  },
+  {
+    "Austin": "59.3",
+    "SanFrancisco": "55.9",
+    "NewYork": "42.7",
+    "date": "20120224"
+  },
+  {
+    "Austin": "47.2",
+    "SanFrancisco": "51.7",
+    "NewYork": "42.6",
+    "date": "20120225"
+  },
+  {
+    "Austin": "47.7",
+    "SanFrancisco": "47.7",
+    "NewYork": "36.9",
+    "date": "20120226"
+  },
+  {
+    "Austin": "61.9",
+    "SanFrancisco": "45.4",
+    "NewYork": "40.9",
+    "date": "20120227"
+  },
+  {
+    "Austin": "67.2",
+    "SanFrancisco": "47.0",
+    "NewYork": "45.9",
+    "date": "20120228"
+  },
+  {
+    "Austin": "70.1",
+    "SanFrancisco": "49.8",
+    "NewYork": "40.7",
+    "date": "20120229"
+  },
+  {
+    "Austin": "62.1",
+    "SanFrancisco": "48.9",
+    "NewYork": "41.3",
+    "date": "20120301"
+  },
+  {
+    "Austin": "72.7",
+    "SanFrancisco": "48.1",
+    "NewYork": "36.8",
+    "date": "20120302"
+  },
+  {
+    "Austin": "59.0",
+    "SanFrancisco": "50.7",
+    "NewYork": "47.6",
+    "date": "20120303"
+  },
+  {
+    "Austin": "51.8",
+    "SanFrancisco": "55.0",
+    "NewYork": "44.2",
+    "date": "20120304"
+  },
+  {
+    "Austin": "55.0",
+    "SanFrancisco": "48.8",
+    "NewYork": "38.5",
+    "date": "20120305"
+  },
+  {
+    "Austin": "61.8",
+    "SanFrancisco": "48.4",
+    "NewYork": "32.9",
+    "date": "20120306"
+  },
+  {
+    "Austin": "67.1",
+    "SanFrancisco": "49.9",
+    "NewYork": "43.3",
+    "date": "20120307"
+  },
+  {
+    "Austin": "72.0",
+    "SanFrancisco": "49.2",
+    "NewYork": "51.2",
+    "date": "20120308"
+  },
+  {
+    "Austin": "46.4",
+    "SanFrancisco": "51.7",
+    "NewYork": "47.8",
+    "date": "20120309"
+  },
+  {
+    "Austin": "46.7",
+    "SanFrancisco": "49.3",
+    "NewYork": "37.2",
+    "date": "20120310"
+  },
+  {
+    "Austin": "56.9",
+    "SanFrancisco": "50.0",
+    "NewYork": "42.9",
+    "date": "20120311"
+  },
+  {
+    "Austin": "61.9",
+    "SanFrancisco": "48.6",
+    "NewYork": "48.8",
+    "date": "20120312"
+  },
+  {
+    "Austin": "68.8",
+    "SanFrancisco": "53.9",
+    "NewYork": "52.6",
+    "date": "20120313"
+  },
+  {
+    "Austin": "71.9",
+    "SanFrancisco": "55.2",
+    "NewYork": "60.5",
+    "date": "20120314"
+  },
+  {
+    "Austin": "72.0",
+    "SanFrancisco": "55.9",
+    "NewYork": "47.2",
+    "date": "20120315"
+  },
+  {
+    "Austin": "72.5",
+    "SanFrancisco": "54.6",
+    "NewYork": "44.7",
+    "date": "20120316"
+  },
+  {
+    "Austin": "71.7",
+    "SanFrancisco": "48.2",
+    "NewYork": "48.2",
+    "date": "20120317"
+  },
+  {
+    "Austin": "71.1",
+    "SanFrancisco": "47.1",
+    "NewYork": "48.2",
+    "date": "20120318"
+  },
+  {
+    "Austin": "73.0",
+    "SanFrancisco": "45.8",
+    "NewYork": "53.1",
+    "date": "20120319"
+  },
+  {
+    "Austin": "63.8",
+    "SanFrancisco": "49.7",
+    "NewYork": "57.8",
+    "date": "20120320"
+  },
+  {
+    "Austin": "60.0",
+    "SanFrancisco": "51.4",
+    "NewYork": "57.5",
+    "date": "20120321"
+  },
+  {
+    "Austin": "62.3",
+    "SanFrancisco": "51.4",
+    "NewYork": "57.3",
+    "date": "20120322"
+  },
+  {
+    "Austin": "61.1",
+    "SanFrancisco": "48.4",
+    "NewYork": "61.7",
+    "date": "20120323"
+  },
+  {
+    "Austin": "62.0",
+    "SanFrancisco": "49.0",
+    "NewYork": "55.8",
+    "date": "20120324"
+  },
+  {
+    "Austin": "64.6",
+    "SanFrancisco": "46.4",
+    "NewYork": "48.4",
+    "date": "20120325"
+  },
+  {
+    "Austin": "66.0",
+    "SanFrancisco": "49.7",
+    "NewYork": "49.8",
+    "date": "20120326"
+  },
+  {
+    "Austin": "65.8",
+    "SanFrancisco": "54.1",
+    "NewYork": "39.6",
+    "date": "20120327"
+  },
+  {
+    "Austin": "69.2",
+    "SanFrancisco": "54.6",
+    "NewYork": "49.7",
+    "date": "20120328"
+  },
+  {
+    "Austin": "69.5",
+    "SanFrancisco": "52.3",
+    "NewYork": "56.8",
+    "date": "20120329"
+  },
+  {
+    "Austin": "73.5",
+    "SanFrancisco": "54.5",
+    "NewYork": "46.5",
+    "date": "20120330"
+  },
+  {
+    "Austin": "73.9",
+    "SanFrancisco": "56.2",
+    "NewYork": "42.2",
+    "date": "20120331"
+  },
+  {
+    "Austin": "75.3",
+    "SanFrancisco": "51.1",
+    "NewYork": "45.3",
+    "date": "20120401"
+  },
+  {
+    "Austin": "75.4",
+    "SanFrancisco": "50.5",
+    "NewYork": "48.1",
+    "date": "20120402"
+  },
+  {
+    "Austin": "77.3",
+    "SanFrancisco": "52.2",
+    "NewYork": "51.2",
+    "date": "20120403"
+  },
+  {
+    "Austin": "67.0",
+    "SanFrancisco": "50.6",
+    "NewYork": "61.0",
+    "date": "20120404"
+  },
+  {
+    "Austin": "71.1",
+    "SanFrancisco": "47.9",
+    "NewYork": "50.7",
+    "date": "20120405"
+  },
+  {
+    "Austin": "70.4",
+    "SanFrancisco": "47.4",
+    "NewYork": "48.0",
+    "date": "20120406"
+  },
+  {
+    "Austin": "73.6",
+    "SanFrancisco": "49.4",
+    "NewYork": "51.1",
+    "date": "20120407"
+  },
+  {
+    "Austin": "71.1",
+    "SanFrancisco": "50.0",
+    "NewYork": "55.7",
+    "date": "20120408"
+  },
+  {
+    "Austin": "70.0",
+    "SanFrancisco": "51.3",
+    "NewYork": "58.3",
+    "date": "20120409"
+  },
+  {
+    "Austin": "69.0",
+    "SanFrancisco": "53.8",
+    "NewYork": "55.0",
+    "date": "20120410"
+  },
+  {
+    "Austin": "69.2",
+    "SanFrancisco": "52.9",
+    "NewYork": "49.0",
+    "date": "20120411"
+  },
+  {
+    "Austin": "74.5",
+    "SanFrancisco": "53.9",
+    "NewYork": "51.7",
+    "date": "20120412"
+  },
+  {
+    "Austin": "73.4",
+    "SanFrancisco": "50.2",
+    "NewYork": "53.1",
+    "date": "20120413"
+  },
+  {
+    "Austin": "76.0",
+    "SanFrancisco": "50.9",
+    "NewYork": "55.2",
+    "date": "20120414"
+  },
+  {
+    "Austin": "74.5",
+    "SanFrancisco": "51.5",
+    "NewYork": "62.3",
+    "date": "20120415"
+  },
+  {
+    "Austin": "63.6",
+    "SanFrancisco": "51.9",
+    "NewYork": "62.9",
+    "date": "20120416"
+  },
+  {
+    "Austin": "67.3",
+    "SanFrancisco": "53.2",
+    "NewYork": "69.3",
+    "date": "20120417"
+  },
+  {
+    "Austin": "65.1",
+    "SanFrancisco": "53.0",
+    "NewYork": "59.0",
+    "date": "20120418"
+  },
+  {
+    "Austin": "67.9",
+    "SanFrancisco": "55.1",
+    "NewYork": "54.1",
+    "date": "20120419"
+  },
+  {
+    "Austin": "68.9",
+    "SanFrancisco": "55.8",
+    "NewYork": "56.5",
+    "date": "20120420"
+  },
+  {
+    "Austin": "65.1",
+    "SanFrancisco": "58.0",
+    "NewYork": "58.2",
+    "date": "20120421"
+  },
+  {
+    "Austin": "65.4",
+    "SanFrancisco": "52.8",
+    "NewYork": "52.4",
+    "date": "20120422"
+  },
+  {
+    "Austin": "70.1",
+    "SanFrancisco": "55.1",
+    "NewYork": "51.6",
+    "date": "20120423"
+  },
+  {
+    "Austin": "67.0",
+    "SanFrancisco": "57.9",
+    "NewYork": "49.3",
+    "date": "20120424"
+  },
+  {
+    "Austin": "75.4",
+    "SanFrancisco": "57.5",
+    "NewYork": "52.5",
+    "date": "20120425"
+  },
+  {
+    "Austin": "77.5",
+    "SanFrancisco": "55.3",
+    "NewYork": "50.5",
+    "date": "20120426"
+  },
+  {
+    "Austin": "77.0",
+    "SanFrancisco": "53.5",
+    "NewYork": "51.9",
+    "date": "20120427"
+  },
+  {
+    "Austin": "77.7",
+    "SanFrancisco": "54.7",
+    "NewYork": "47.4",
+    "date": "20120428"
+  },
+  {
+    "Austin": "77.7",
+    "SanFrancisco": "54.0",
+    "NewYork": "54.1",
+    "date": "20120429"
+  },
+  {
+    "Austin": "77.7",
+    "SanFrancisco": "53.4",
+    "NewYork": "51.9",
+    "date": "20120430"
+  },
+  {
+    "Austin": "77.0",
+    "SanFrancisco": "52.7",
+    "NewYork": "57.4",
+    "date": "20120501"
+  },
+  {
+    "Austin": "77.9",
+    "SanFrancisco": "50.7",
+    "NewYork": "53.7",
+    "date": "20120502"
+  },
+  {
+    "Austin": "79.1",
+    "SanFrancisco": "52.6",
+    "NewYork": "53.1",
+    "date": "20120503"
+  },
+  {
+    "Austin": "80.1",
+    "SanFrancisco": "53.4",
+    "NewYork": "57.2",
+    "date": "20120504"
+  },
+  {
+    "Austin": "82.1",
+    "SanFrancisco": "53.1",
+    "NewYork": "57.0",
+    "date": "20120505"
+  },
+  {
+    "Austin": "79.0",
+    "SanFrancisco": "56.5",
+    "NewYork": "56.6",
+    "date": "20120506"
+  },
+  {
+    "Austin": "79.8",
+    "SanFrancisco": "55.3",
+    "NewYork": "54.6",
+    "date": "20120507"
+  },
+  {
+    "Austin": "70.0",
+    "SanFrancisco": "52.0",
+    "NewYork": "57.9",
+    "date": "20120508"
+  },
+  {
+    "Austin": "69.8",
+    "SanFrancisco": "52.4",
+    "NewYork": "59.2",
+    "date": "20120509"
+  },
+  {
+    "Austin": "71.3",
+    "SanFrancisco": "53.4",
+    "NewYork": "61.1",
+    "date": "20120510"
+  },
+  {
+    "Austin": "69.4",
+    "SanFrancisco": "53.1",
+    "NewYork": "59.7",
+    "date": "20120511"
+  },
+  {
+    "Austin": "72.0",
+    "SanFrancisco": "49.9",
+    "NewYork": "64.1",
+    "date": "20120512"
+  },
+  {
+    "Austin": "72.4",
+    "SanFrancisco": "52.0",
+    "NewYork": "65.3",
+    "date": "20120513"
+  },
+  {
+    "Austin": "72.5",
+    "SanFrancisco": "56.0",
+    "NewYork": "64.2",
+    "date": "20120514"
+  },
+  {
+    "Austin": "67.6",
+    "SanFrancisco": "53.0",
+    "NewYork": "62.0",
+    "date": "20120515"
+  },
+  {
+    "Austin": "69.0",
+    "SanFrancisco": "51.0",
+    "NewYork": "63.8",
+    "date": "20120516"
+  },
+  {
+    "Austin": "72.7",
+    "SanFrancisco": "51.4",
+    "NewYork": "64.5",
+    "date": "20120517"
+  },
+  {
+    "Austin": "73.7",
+    "SanFrancisco": "52.2",
+    "NewYork": "61.0",
+    "date": "20120518"
+  },
+  {
+    "Austin": "77.5",
+    "SanFrancisco": "52.4",
+    "NewYork": "62.6",
+    "date": "20120519"
+  },
+  {
+    "Austin": "75.8",
+    "SanFrancisco": "54.5",
+    "NewYork": "66.2",
+    "date": "20120520"
+  },
+  {
+    "Austin": "76.9",
+    "SanFrancisco": "52.8",
+    "NewYork": "62.7",
+    "date": "20120521"
+  },
+  {
+    "Austin": "78.8",
+    "SanFrancisco": "53.9",
+    "NewYork": "63.7",
+    "date": "20120522"
+  },
+  {
+    "Austin": "77.7",
+    "SanFrancisco": "56.5",
+    "NewYork": "66.4",
+    "date": "20120523"
+  },
+  {
+    "Austin": "80.6",
+    "SanFrancisco": "54.7",
+    "NewYork": "64.5",
+    "date": "20120524"
+  },
+  {
+    "Austin": "81.4",
+    "SanFrancisco": "52.5",
+    "NewYork": "65.4",
+    "date": "20120525"
+  },
+  {
+    "Austin": "82.3",
+    "SanFrancisco": "52.1",
+    "NewYork": "69.4",
+    "date": "20120526"
+  },
+  {
+    "Austin": "80.3",
+    "SanFrancisco": "52.2",
+    "NewYork": "71.9",
+    "date": "20120527"
+  },
+  {
+    "Austin": "80.3",
+    "SanFrancisco": "52.9",
+    "NewYork": "74.4",
+    "date": "20120528"
+  },
+  {
+    "Austin": "82.2",
+    "SanFrancisco": "52.1",
+    "NewYork": "75.9",
+    "date": "20120529"
+  },
+  {
+    "Austin": "81.9",
+    "SanFrancisco": "52.1",
+    "NewYork": "72.9",
+    "date": "20120530"
+  },
+  {
+    "Austin": "82.4",
+    "SanFrancisco": "53.3",
+    "NewYork": "72.5",
+    "date": "20120531"
+  },
+  {
+    "Austin": "77.9",
+    "SanFrancisco": "54.8",
+    "NewYork": "67.2",
+    "date": "20120601"
+  },
+  {
+    "Austin": "81.1",
+    "SanFrancisco": "54.0",
+    "NewYork": "68.3",
+    "date": "20120602"
+  },
+  {
+    "Austin": "82.2",
+    "SanFrancisco": "52.3",
+    "NewYork": "67.7",
+    "date": "20120603"
+  },
+  {
+    "Austin": "81.2",
+    "SanFrancisco": "55.3",
+    "NewYork": "61.9",
+    "date": "20120604"
+  },
+  {
+    "Austin": "83.0",
+    "SanFrancisco": "53.5",
+    "NewYork": "58.3",
+    "date": "20120605"
+  },
+  {
+    "Austin": "83.2",
+    "SanFrancisco": "54.1",
+    "NewYork": "61.7",
+    "date": "20120606"
+  },
+  {
+    "Austin": "82.1",
+    "SanFrancisco": "53.9",
+    "NewYork": "66.7",
+    "date": "20120607"
+  },
+  {
+    "Austin": "77.5",
+    "SanFrancisco": "54.4",
+    "NewYork": "68.7",
+    "date": "20120608"
+  },
+  {
+    "Austin": "77.9",
+    "SanFrancisco": "55.0",
+    "NewYork": "72.2",
+    "date": "20120609"
+  },
+  {
+    "Austin": "82.9",
+    "SanFrancisco": "60.0",
+    "NewYork": "72.6",
+    "date": "20120610"
+  },
+  {
+    "Austin": "86.8",
+    "SanFrancisco": "57.2",
+    "NewYork": "69.2",
+    "date": "20120611"
+  },
+  {
+    "Austin": "85.3",
+    "SanFrancisco": "55.1",
+    "NewYork": "66.9",
+    "date": "20120612"
+  },
+  {
+    "Austin": "76.9",
+    "SanFrancisco": "53.3",
+    "NewYork": "66.7",
+    "date": "20120613"
+  },
+  {
+    "Austin": "84.5",
+    "SanFrancisco": "53.4",
+    "NewYork": "67.7",
+    "date": "20120614"
+  },
+  {
+    "Austin": "84.4",
+    "SanFrancisco": "54.6",
+    "NewYork": "68.5",
+    "date": "20120615"
+  },
+  {
+    "Austin": "83.8",
+    "SanFrancisco": "57.0",
+    "NewYork": "67.5",
+    "date": "20120616"
+  },
+  {
+    "Austin": "82.5",
+    "SanFrancisco": "55.6",
+    "NewYork": "64.2",
+    "date": "20120617"
+  },
+  {
+    "Austin": "82.9",
+    "SanFrancisco": "52.5",
+    "NewYork": "61.7",
+    "date": "20120618"
+  },
+  {
+    "Austin": "82.5",
+    "SanFrancisco": "53.9",
+    "NewYork": "66.4",
+    "date": "20120619"
+  },
+  {
+    "Austin": "81.3",
+    "SanFrancisco": "55.3",
+    "NewYork": "77.9",
+    "date": "20120620"
+  },
+  {
+    "Austin": "80.8",
+    "SanFrancisco": "53.3",
+    "NewYork": "88.3",
+    "date": "20120621"
+  },
+  {
+    "Austin": "81.7",
+    "SanFrancisco": "54.1",
+    "NewYork": "82.2",
+    "date": "20120622"
+  },
+  {
+    "Austin": "83.9",
+    "SanFrancisco": "55.2",
+    "NewYork": "77.0",
+    "date": "20120623"
+  },
+  {
+    "Austin": "85.5",
+    "SanFrancisco": "55.8",
+    "NewYork": "75.4",
+    "date": "20120624"
+  },
+  {
+    "Austin": "87.2",
+    "SanFrancisco": "56.8",
+    "NewYork": "70.9",
+    "date": "20120625"
+  },
+  {
+    "Austin": "88.0",
+    "SanFrancisco": "57.5",
+    "NewYork": "65.9",
+    "date": "20120626"
+  },
+  {
+    "Austin": "89.6",
+    "SanFrancisco": "57.7",
+    "NewYork": "73.5",
+    "date": "20120627"
+  },
+  {
+    "Austin": "86.7",
+    "SanFrancisco": "56.6",
+    "NewYork": "77.4",
+    "date": "20120628"
+  },
+  {
+    "Austin": "85.3",
+    "SanFrancisco": "56.4",
+    "NewYork": "79.6",
+    "date": "20120629"
+  },
+  {
+    "Austin": "81.7",
+    "SanFrancisco": "58.4",
+    "NewYork": "84.2",
+    "date": "20120630"
+  },
+  {
+    "Austin": "78.5",
+    "SanFrancisco": "58.8",
+    "NewYork": "81.8",
+    "date": "20120701"
+  },
+  {
+    "Austin": "83.1",
+    "SanFrancisco": "56.4",
+    "NewYork": "82.5",
+    "date": "20120702"
+  },
+  {
+    "Austin": "83.1",
+    "SanFrancisco": "56.5",
+    "NewYork": "80.2",
+    "date": "20120703"
+  },
+  {
+    "Austin": "84.5",
+    "SanFrancisco": "55.8",
+    "NewYork": "77.8",
+    "date": "20120704"
+  },
+  {
+    "Austin": "84.6",
+    "SanFrancisco": "54.8",
+    "NewYork": "86.1",
+    "date": "20120705"
+  },
+  {
+    "Austin": "84.2",
+    "SanFrancisco": "54.9",
+    "NewYork": "79.9",
+    "date": "20120706"
+  },
+  {
+    "Austin": "86.7",
+    "SanFrancisco": "54.7",
+    "NewYork": "83.5",
+    "date": "20120707"
+  },
+  {
+    "Austin": "84.3",
+    "SanFrancisco": "52.8",
+    "NewYork": "81.5",
+    "date": "20120708"
+  },
+  {
+    "Austin": "83.7",
+    "SanFrancisco": "53.7",
+    "NewYork": "77.8",
+    "date": "20120709"
+  },
+  {
+    "Austin": "77.1",
+    "SanFrancisco": "53.1",
+    "NewYork": "76.1",
+    "date": "20120710"
+  },
+  {
+    "Austin": "77.4",
+    "SanFrancisco": "52.7",
+    "NewYork": "76.3",
+    "date": "20120711"
+  },
+  {
+    "Austin": "80.6",
+    "SanFrancisco": "52.0",
+    "NewYork": "75.8",
+    "date": "20120712"
+  },
+  {
+    "Austin": "81.4",
+    "SanFrancisco": "53.4",
+    "NewYork": "77.2",
+    "date": "20120713"
+  },
+  {
+    "Austin": "80.2",
+    "SanFrancisco": "54.0",
+    "NewYork": "79.3",
+    "date": "20120714"
+  },
+  {
+    "Austin": "81.8",
+    "SanFrancisco": "54.0",
+    "NewYork": "78.9",
+    "date": "20120715"
+  },
+  {
+    "Austin": "77.3",
+    "SanFrancisco": "54.5",
+    "NewYork": "79.6",
+    "date": "20120716"
+  },
+  {
+    "Austin": "80.8",
+    "SanFrancisco": "56.7",
+    "NewYork": "83.3",
+    "date": "20120717"
+  },
+  {
+    "Austin": "81.6",
+    "SanFrancisco": "57.5",
+    "NewYork": "84.3",
+    "date": "20120718"
+  },
+  {
+    "Austin": "80.9",
+    "SanFrancisco": "57.1",
+    "NewYork": "75.1",
+    "date": "20120719"
+  },
+  {
+    "Austin": "83.9",
+    "SanFrancisco": "58.1",
+    "NewYork": "68.4",
+    "date": "20120720"
+  },
+  {
+    "Austin": "85.6",
+    "SanFrancisco": "57.6",
+    "NewYork": "68.4",
+    "date": "20120721"
+  },
+  {
+    "Austin": "83.6",
+    "SanFrancisco": "56.0",
+    "NewYork": "72.2",
+    "date": "20120722"
+  },
+  {
+    "Austin": "84.0",
+    "SanFrancisco": "56.6",
+    "NewYork": "75.6",
+    "date": "20120723"
+  },
+  {
+    "Austin": "83.0",
+    "SanFrancisco": "57.8",
+    "NewYork": "82.6",
+    "date": "20120724"
+  },
+  {
+    "Austin": "84.8",
+    "SanFrancisco": "57.5",
+    "NewYork": "78.4",
+    "date": "20120725"
+  },
+  {
+    "Austin": "84.4",
+    "SanFrancisco": "56.4",
+    "NewYork": "77.0",
+    "date": "20120726"
+  },
+  {
+    "Austin": "84.3",
+    "SanFrancisco": "55.3",
+    "NewYork": "79.4",
+    "date": "20120727"
+  },
+  {
+    "Austin": "83.9",
+    "SanFrancisco": "55.0",
+    "NewYork": "77.4",
+    "date": "20120728"
+  },
+  {
+    "Austin": "85.0",
+    "SanFrancisco": "55.6",
+    "NewYork": "72.5",
+    "date": "20120729"
+  },
+  {
+    "Austin": "84.9",
+    "SanFrancisco": "55.6",
+    "NewYork": "72.9",
+    "date": "20120730"
+  },
+  {
+    "Austin": "86.3",
+    "SanFrancisco": "55.9",
+    "NewYork": "73.6",
+    "date": "20120731"
+  },
+  {
+    "Austin": "86.5",
+    "SanFrancisco": "55.4",
+    "NewYork": "75.0",
+    "date": "20120801"
+  },
+  {
+    "Austin": "85.8",
+    "SanFrancisco": "54.4",
+    "NewYork": "77.7",
+    "date": "20120802"
+  },
+  {
+    "Austin": "85.3",
+    "SanFrancisco": "53.7",
+    "NewYork": "79.7",
+    "date": "20120803"
+  },
+  {
+    "Austin": "86.0",
+    "SanFrancisco": "54.1",
+    "NewYork": "79.6",
+    "date": "20120804"
+  },
+  {
+    "Austin": "84.2",
+    "SanFrancisco": "57.8",
+    "NewYork": "81.5",
+    "date": "20120805"
+  },
+  {
+    "Austin": "81.9",
+    "SanFrancisco": "58.2",
+    "NewYork": "80.0",
+    "date": "20120806"
+  },
+  {
+    "Austin": "86.5",
+    "SanFrancisco": "58.0",
+    "NewYork": "75.7",
+    "date": "20120807"
+  },
+  {
+    "Austin": "86.1",
+    "SanFrancisco": "57.0",
+    "NewYork": "77.8",
+    "date": "20120808"
+  },
+  {
+    "Austin": "86.8",
+    "SanFrancisco": "55.0",
+    "NewYork": "78.6",
+    "date": "20120809"
+  },
+  {
+    "Austin": "88.0",
+    "SanFrancisco": "54.8",
+    "NewYork": "77.8",
+    "date": "20120810"
+  },
+  {
+    "Austin": "85.1",
+    "SanFrancisco": "53.0",
+    "NewYork": "78.5",
+    "date": "20120811"
+  },
+  {
+    "Austin": "87.4",
+    "SanFrancisco": "52.5",
+    "NewYork": "78.8",
+    "date": "20120812"
+  },
+  {
+    "Austin": "88.0",
+    "SanFrancisco": "53.3",
+    "NewYork": "78.6",
+    "date": "20120813"
+  },
+  {
+    "Austin": "88.0",
+    "SanFrancisco": "53.9",
+    "NewYork": "76.8",
+    "date": "20120814"
+  },
+  {
+    "Austin": "87.2",
+    "SanFrancisco": "56.2",
+    "NewYork": "76.7",
+    "date": "20120815"
+  },
+  {
+    "Austin": "86.1",
+    "SanFrancisco": "57.1",
+    "NewYork": "75.9",
+    "date": "20120816"
+  },
+  {
+    "Austin": "86.8",
+    "SanFrancisco": "55.3",
+    "NewYork": "77.6",
+    "date": "20120817"
+  },
+  {
+    "Austin": "84.9",
+    "SanFrancisco": "56.2",
+    "NewYork": "72.6",
+    "date": "20120818"
+  },
+  {
+    "Austin": "76.8",
+    "SanFrancisco": "54.3",
+    "NewYork": "70.4",
+    "date": "20120819"
+  },
+  {
+    "Austin": "80.6",
+    "SanFrancisco": "53.1",
+    "NewYork": "71.8",
+    "date": "20120820"
+  },
+  {
+    "Austin": "80.0",
+    "SanFrancisco": "53.4",
+    "NewYork": "73.6",
+    "date": "20120821"
+  },
+  {
+    "Austin": "78.2",
+    "SanFrancisco": "54.5",
+    "NewYork": "74.7",
+    "date": "20120822"
+  },
+  {
+    "Austin": "79.1",
+    "SanFrancisco": "55.7",
+    "NewYork": "74.6",
+    "date": "20120823"
+  },
+  {
+    "Austin": "81.9",
+    "SanFrancisco": "54.8",
+    "NewYork": "76.0",
+    "date": "20120824"
+  },
+  {
+    "Austin": "84.7",
+    "SanFrancisco": "53.8",
+    "NewYork": "76.2",
+    "date": "20120825"
+  },
+  {
+    "Austin": "83.5",
+    "SanFrancisco": "56.5",
+    "NewYork": "73.4",
+    "date": "20120826"
+  },
+  {
+    "Austin": "82.1",
+    "SanFrancisco": "58.3",
+    "NewYork": "74.6",
+    "date": "20120827"
+  },
+  {
+    "Austin": "84.0",
+    "SanFrancisco": "58.7",
+    "NewYork": "79.4",
+    "date": "20120828"
+  },
+  {
+    "Austin": "85.7",
+    "SanFrancisco": "57.5",
+    "NewYork": "74.7",
+    "date": "20120829"
+  },
+  {
+    "Austin": "87.2",
+    "SanFrancisco": "55.9",
+    "NewYork": "73.5",
+    "date": "20120830"
+  },
+  {
+    "Austin": "82.9",
+    "SanFrancisco": "55.4",
+    "NewYork": "77.9",
+    "date": "20120831"
+  },
+  {
+    "Austin": "84.8",
+    "SanFrancisco": "55.7",
+    "NewYork": "80.7",
+    "date": "20120901"
+  },
+  {
+    "Austin": "83.9",
+    "SanFrancisco": "53.1",
+    "NewYork": "75.1",
+    "date": "20120902"
+  },
+  {
+    "Austin": "85.5",
+    "SanFrancisco": "53.5",
+    "NewYork": "73.5",
+    "date": "20120903"
+  },
+  {
+    "Austin": "86.4",
+    "SanFrancisco": "52.5",
+    "NewYork": "73.5",
+    "date": "20120904"
+  },
+  {
+    "Austin": "85.8",
+    "SanFrancisco": "54.5",
+    "NewYork": "77.7",
+    "date": "20120905"
+  },
+  {
+    "Austin": "85.4",
+    "SanFrancisco": "56.3",
+    "NewYork": "74.2",
+    "date": "20120906"
+  },
+  {
+    "Austin": "85.3",
+    "SanFrancisco": "56.4",
+    "NewYork": "76.0",
+    "date": "20120907"
+  },
+  {
+    "Austin": "81.9",
+    "SanFrancisco": "56.5",
+    "NewYork": "77.1",
+    "date": "20120908"
+  },
+  {
+    "Austin": "74.8",
+    "SanFrancisco": "56.4",
+    "NewYork": "69.7",
+    "date": "20120909"
+  },
+  {
+    "Austin": "71.6",
+    "SanFrancisco": "55.4",
+    "NewYork": "67.8",
+    "date": "20120910"
+  },
+  {
+    "Austin": "75.9",
+    "SanFrancisco": "56.2",
+    "NewYork": "64.0",
+    "date": "20120911"
+  },
+  {
+    "Austin": "82.1",
+    "SanFrancisco": "55.7",
+    "NewYork": "68.1",
+    "date": "20120912"
+  },
+  {
+    "Austin": "80.5",
+    "SanFrancisco": "54.3",
+    "NewYork": "69.3",
+    "date": "20120913"
+  },
+  {
+    "Austin": "70.0",
+    "SanFrancisco": "55.2",
+    "NewYork": "70.0",
+    "date": "20120914"
+  },
+  {
+    "Austin": "71.2",
+    "SanFrancisco": "54.3",
+    "NewYork": "69.3",
+    "date": "20120915"
+  },
+  {
+    "Austin": "70.3",
+    "SanFrancisco": "52.9",
+    "NewYork": "66.3",
+    "date": "20120916"
+  },
+  {
+    "Austin": "72.1",
+    "SanFrancisco": "54.8",
+    "NewYork": "67.0",
+    "date": "20120917"
+  },
+  {
+    "Austin": "73.7",
+    "SanFrancisco": "54.8",
+    "NewYork": "72.8",
+    "date": "20120918"
+  },
+  {
+    "Austin": "72.7",
+    "SanFrancisco": "56.8",
+    "NewYork": "67.2",
+    "date": "20120919"
+  },
+  {
+    "Austin": "71.7",
+    "SanFrancisco": "55.4",
+    "NewYork": "62.1",
+    "date": "20120920"
+  },
+  {
+    "Austin": "72.9",
+    "SanFrancisco": "55.8",
+    "NewYork": "64.0",
+    "date": "20120921"
+  },
+  {
+    "Austin": "73.1",
+    "SanFrancisco": "55.9",
+    "NewYork": "65.5",
+    "date": "20120922"
+  },
+  {
+    "Austin": "75.6",
+    "SanFrancisco": "52.8",
+    "NewYork": "65.7",
+    "date": "20120923"
+  },
+  {
+    "Austin": "78.3",
+    "SanFrancisco": "54.5",
+    "NewYork": "60.4",
+    "date": "20120924"
+  },
+  {
+    "Austin": "78.3",
+    "SanFrancisco": "53.3",
+    "NewYork": "63.2",
+    "date": "20120925"
+  },
+  {
+    "Austin": "79.6",
+    "SanFrancisco": "53.6",
+    "NewYork": "68.5",
+    "date": "20120926"
+  },
+  {
+    "Austin": "76.4",
+    "SanFrancisco": "52.1",
+    "NewYork": "69.2",
+    "date": "20120927"
+  },
+  {
+    "Austin": "77.2",
+    "SanFrancisco": "52.6",
+    "NewYork": "68.7",
+    "date": "20120928"
+  },
+  {
+    "Austin": "75.2",
+    "SanFrancisco": "53.9",
+    "NewYork": "62.5",
+    "date": "20120929"
+  },
+  {
+    "Austin": "71.9",
+    "SanFrancisco": "55.1",
+    "NewYork": "62.3",
+    "date": "20120930"
+  }
+]

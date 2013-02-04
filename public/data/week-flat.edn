@@ -1,0 +1,10 @@
+{:data
+ [["date" "NewYork" "SanFrancisco" "Austin"]
+  ["20111001" "63.4" "62.7" "72.2"]
+  ["20111002" "58.0" "59.9" "67.7"]
+  ["20111003" "53.3" "59.1" "69.4"]
+  ["20111004" "55.7" "58.8" "68.0"]
+  ["20111005" "64.2" "58.7" "72.4"]
+  ["20111006" "58.8" "57.0" "77.0"]],
+ :datafun
+ "(serializable.fn/fn [src] (let [alicia (map keyword (first src))] (vec (map (fn* [p1__18#] (zipmap alicia p1__18#)) (rest src)))))"}
