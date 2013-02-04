@@ -10,7 +10,7 @@
     ((first q) (rest q))))
 
 (defn process-json [s q]
-  (-> d3 (.text (str "data/" s ".json") 
+  (-> d3 (.text (str "public/data/" s ".json") 
     (fn [error, txt]
       (-> d3 (.select (str ".json .size ." s)) (.text (str (count txt))))
       (let [time1 (js/Date.)
@@ -27,7 +27,7 @@
     ))))
 
 (defn process-edn [s q]
-  (-> d3 (.text (str "data/" s ".edn") 
+  (-> d3 (.text (str "public/data/" s ".edn") 
     (fn [error, txt]
       (-> d3 (.select (str ".edn .size ." s)) (.text (str (count txt))))
       (let [time1 (js/Date.)
@@ -48,7 +48,7 @@
     (vec (map #(zipmap alicia %) (rest src))))))
 
 (defn process-edn-flat [s q]
-  (-> d3 (.text (str "data/" s "-flat.edn") 
+  (-> d3 (.text (str "public/data/" s "-flat.edn") 
     (fn [error, txt]
       (-> d3 (.select (str ".ednflat .size ." s)) (.text (str (count txt))))
       (let [time1 (js/Date.)
