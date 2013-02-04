@@ -43,7 +43,7 @@
         recs7   (vec (take 7 records))
         flat    {:data src :datafun to-records-str}
         flat30  {:data (vec (take 31 src)) :datafun to-records-str}
-        flat7   {:data (vec (take 7 src)) :datafun to-records-str}]
+        flat7   {:data (vec (take 8 src)) :datafun to-records-str}]
     (write-json records "public/data/year.json")
     (write-json recs30 "public/data/month.json")
     (write-json recs7 "public/data/week.json")
